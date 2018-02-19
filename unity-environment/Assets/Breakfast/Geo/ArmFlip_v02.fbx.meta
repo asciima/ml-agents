@@ -1,0 +1,230 @@
+fileFormatVersion: 2
+guid: b94e27fce3a5bbb41811c48f0158e430
+timeCreated: 1517210017
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Butter
+    100004: Colliders
+    100006: Elbow
+    100008: forearm
+    100010: HandandPan
+    100012: PanBounds1
+    100014: PanBounds2
+    100016: PanBounds3
+    100018: PanBounds4
+    100020: PanBounds5
+    100022: PanBounds6
+    100024: PanBounds7
+    100026: PanBounds8
+    100028: PanBounds9
+    100030: Pancake1
+    100032: Plate
+    100034: polySurface14
+    100036: polySurface15
+    100038: polySurface16
+    100040: polySurface17
+    100042: polySurface18
+    100044: polySurface19
+    100046: polySurface20
+    100048: polySurface21
+    100050: polySurface22
+    100052: polySurface23
+    100054: Shoulder1
+    100056: upperArm1
+    100058: Wrist
+    400000: //RootNode
+    400002: Butter
+    400004: Colliders
+    400006: Elbow
+    400008: forearm
+    400010: HandandPan
+    400012: PanBounds1
+    400014: PanBounds2
+    400016: PanBounds3
+    400018: PanBounds4
+    400020: PanBounds5
+    400022: PanBounds6
+    400024: PanBounds7
+    400026: PanBounds8
+    400028: PanBounds9
+    400030: Pancake1
+    400032: Plate
+    400034: polySurface14
+    400036: polySurface15
+    400038: polySurface16
+    400040: polySurface17
+    400042: polySurface18
+    400044: polySurface19
+    400046: polySurface20
+    400048: polySurface21
+    400050: polySurface22
+    400052: polySurface23
+    400054: Shoulder1
+    400056: upperArm1
+    400058: Wrist
+    2100000: lambert1
+    2100002: ColliderMat1
+    2300000: Butter
+    2300002: Elbow
+    2300004: forearm
+    2300006: PanBounds1
+    2300008: PanBounds2
+    2300010: PanBounds3
+    2300012: PanBounds4
+    2300014: PanBounds5
+    2300016: PanBounds6
+    2300018: PanBounds7
+    2300020: PanBounds8
+    2300022: PanBounds9
+    2300024: Pancake1
+    2300026: Plate
+    2300028: polySurface14
+    2300030: polySurface15
+    2300032: polySurface16
+    2300034: polySurface17
+    2300036: polySurface18
+    2300038: polySurface19
+    2300040: polySurface20
+    2300042: polySurface21
+    2300044: polySurface22
+    2300046: polySurface23
+    2300048: Shoulder1
+    2300050: upperArm1
+    2300052: Wrist
+    3300000: Butter
+    3300002: Elbow
+    3300004: forearm
+    3300006: PanBounds1
+    3300008: PanBounds2
+    3300010: PanBounds3
+    3300012: PanBounds4
+    3300014: PanBounds5
+    3300016: PanBounds6
+    3300018: PanBounds7
+    3300020: PanBounds8
+    3300022: PanBounds9
+    3300024: Pancake1
+    3300026: Plate
+    3300028: polySurface14
+    3300030: polySurface15
+    3300032: polySurface16
+    3300034: polySurface17
+    3300036: polySurface18
+    3300038: polySurface19
+    3300040: polySurface20
+    3300042: polySurface21
+    3300044: polySurface22
+    3300046: polySurface23
+    3300048: Shoulder1
+    3300050: upperArm1
+    3300052: Wrist
+    4300000: Plate
+    4300002: Pancake1
+    4300004: Butter
+    4300006: Shoulder1
+    4300008: upperArm1
+    4300010: Elbow
+    4300012: forearm
+    4300014: Wrist
+    4300016: polySurface14
+    4300018: polySurface15
+    4300020: polySurface16
+    4300022: polySurface17
+    4300024: polySurface18
+    4300026: polySurface19
+    4300028: polySurface20
+    4300030: polySurface21
+    4300032: polySurface22
+    4300034: polySurface23
+    4300036: PanBounds8
+    4300038: PanBounds9
+    4300040: PanBounds7
+    4300042: PanBounds6
+    4300044: PanBounds5
+    4300046: PanBounds4
+    4300048: PanBounds3
+    4300050: PanBounds2
+    4300052: PanBounds1
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

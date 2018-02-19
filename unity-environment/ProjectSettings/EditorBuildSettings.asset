@@ -5,7 +5,7 @@ EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Scenes:
-  - enabled: 1
+  - enabled: 0
     path: Assets/ML-Agents/Examples/3DBall/Scene.unity
     guid: a83e830ec5bcd4b1db836428921d59b0
   - enabled: 0
@@ -14,3 +14,12 @@ EditorBuildSettings:
   - enabled: 0
     path: Assets/ML-Agents/Examples/Tennis/Tennis.unity
     guid: 25c0c9e81e55c4e129e1a5c0ac254100
+  - enabled: 0
+    path: Assets/Breakfast/Breakfast.unity
+    guid: be9ffa00c2c9347139180b1357979e8a
+  - enabled: 0
+    path: Assets/RealisticKitchenPack/Scene/Example.unity
+    guid: 79786859a0d154a43bedd3530958965f
+  - enabled: 1
+    path: Assets/Breakfast/Butter.unity
+    guid: 9a5d84a68b9a04728befd980b0c76cee

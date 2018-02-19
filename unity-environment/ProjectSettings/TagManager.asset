@@ -6,6 +6,14 @@ TagManager:
   tags:
   - agent
   - iWall
+  - goal
+  - pit
+  - food
+  - floor
+  - wall
+  - obstacle
+  - butter
+  - bot
   layers:
   - Default
   - TransparentFX

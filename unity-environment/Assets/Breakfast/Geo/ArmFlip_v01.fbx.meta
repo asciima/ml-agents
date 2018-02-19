@@ -1,0 +1,202 @@
+fileFormatVersion: 2
+guid: dee99fe1205534f998b0b279089add85
+timeCreated: 1516857074
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Colliders
+    100004: Elbow
+    100006: forearm
+    100008: HandandPan
+    100010: pan
+    100012: PanBounds1
+    100014: PanBounds2
+    100016: PanBounds3
+    100018: PanBounds4
+    100020: PanBounds5
+    100022: PanBounds6
+    100024: PanBounds7
+    100026: PanBounds8
+    100028: PanBounds9
+    100030: Pancake
+    100032: panTrigger
+    100034: pCube3
+    100036: pCube4
+    100038: pCube5
+    100040: Shoulder
+    100042: upperArm
+    100044: Wrist
+    100046: Butter
+    400000: //RootNode
+    400002: Colliders
+    400004: Elbow
+    400006: forearm
+    400008: HandandPan
+    400010: pan
+    400012: PanBounds1
+    400014: PanBounds2
+    400016: PanBounds3
+    400018: PanBounds4
+    400020: PanBounds5
+    400022: PanBounds6
+    400024: PanBounds7
+    400026: PanBounds8
+    400028: PanBounds9
+    400030: Pancake
+    400032: panTrigger
+    400034: pCube3
+    400036: pCube4
+    400038: pCube5
+    400040: Shoulder
+    400042: upperArm
+    400044: Wrist
+    400046: Butter
+    2100000: lambert1
+    2100002: ColliderMat
+    2100004: PancakeMat
+    2100006: ButterMat
+    2300000: Elbow
+    2300002: forearm
+    2300004: pan
+    2300006: PanBounds1
+    2300008: PanBounds2
+    2300010: PanBounds3
+    2300012: PanBounds4
+    2300014: PanBounds5
+    2300016: PanBounds6
+    2300018: PanBounds7
+    2300020: PanBounds8
+    2300022: PanBounds9
+    2300024: Pancake
+    2300026: panTrigger
+    2300028: pCube3
+    2300030: pCube4
+    2300032: pCube5
+    2300034: Shoulder
+    2300036: upperArm
+    2300038: Wrist
+    2300040: Butter
+    3300000: Elbow
+    3300002: forearm
+    3300004: pan
+    3300006: PanBounds1
+    3300008: PanBounds2
+    3300010: PanBounds3
+    3300012: PanBounds4
+    3300014: PanBounds5
+    3300016: PanBounds6
+    3300018: PanBounds7
+    3300020: PanBounds8
+    3300022: PanBounds9
+    3300024: Pancake
+    3300026: panTrigger
+    3300028: pCube3
+    3300030: pCube4
+    3300032: pCube5
+    3300034: Shoulder
+    3300036: upperArm
+    3300038: Wrist
+    3300040: Butter
+    4300000: Shoulder
+    4300002: upperArm
+    4300004: Elbow
+    4300006: forearm
+    4300008: Wrist
+    4300010: PanBounds8
+    4300012: PanBounds9
+    4300014: PanBounds7
+    4300016: PanBounds6
+    4300018: PanBounds5
+    4300020: PanBounds4
+    4300022: PanBounds3
+    4300024: PanBounds2
+    4300026: PanBounds1
+    4300028: panTrigger
+    4300030: pCube3
+    4300032: pCube4
+    4300034: pan
+    4300036: pCube5
+    4300038: Pancake
+    4300040: Butter
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
